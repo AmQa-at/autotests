@@ -1,0 +1,39 @@
+{
+  "cookies": [
+    {
+      "name": "demo_access_token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTE0NTg0OTAsInN1YiI6IjMxMyIsImlhdCI6MTc1MTQ1NDg5MH0.AaQmUVCGFnxkpfp9GvuUmfLlW6hraYRjNUnbg6qdobg",
+      "domain": ".demo.sboard.su",
+      "path": "/",
+      "expires": 1751458480.501622,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "demo_refresh_token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTQwNDY4OTAsInN1YiI6IjMxMyIsInR5cGUiOiJyZWZyZXNoIiwiaWF0IjoxNzUxNDU0ODkwfQ.4hjNytIm6tSIOozJ_oNeqYMYpfx7rfAiJIfA7b2C5so",
+      "domain": ".demo.sboard.su",
+      "path": "/",
+      "expires": 1754046880.50172,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://demo.sboard.su",
+      "localStorage": [
+        {
+          "name": "i18nextLng",
+          "value": "ru-RU"
+        },
+        {
+          "name": "limit_boards_alert",
+          "value": "true"
+        }
+      ]
+    }
+  ]
+}
